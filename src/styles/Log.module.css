@@ -1,0 +1,14 @@
+.log {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logEntry {
+    background: #f9f9f9;
+    padding: 10px;
+    border-left: 4px solid #28a745;
+    margin-bottom: 10px;
+  }
+  

@@ -1,0 +1,25 @@
+.tracker {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .statsContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+  
+  .statsBox {
+    background: #333;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .buttons {
+    margin-top: 10px;
+  }
+  

@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  border-bottom: 2px solid #12714C;
+  background-color: white;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #12714C;
+}
+
+.navMenu {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+  gap: 20px;
+}
+
+.navItem {
+  font-size: 16px;
+  text-decoration: none;
+  color: #000;
+  transition: color 0.3s;
+}
+
+.navItem:hover {
+  color: #12714C;
+}
